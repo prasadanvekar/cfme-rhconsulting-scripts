@@ -1,4 +1,4 @@
-= Cloudforms/ManageIQ rhconsulting rake scripts
+= ManageIQ rhconsulting rake scripts
 
 These scripts are useful to import/export specific items.
 
